@@ -100,6 +100,5 @@ Create a new service, link it to your GitHub repository, and deploy the applicat
 Add the following details to a text file:
 
  - Render URL: https://nodejs-filesystem-l09i.onrender.com/
- - GitHub Repository URL: The repository link.
  
  
